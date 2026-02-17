@@ -1,0 +1,80 @@
+            1. Core Compute Services
+EC2: Elastic Compute Cloud (Virtual servers in the cloud)
+Lambda: Serverless compute service
+ECS: Elastic Container Service (Container orchestration)
+EKS: Elastic Kubernetes Service
+Lightsail: Simplified virtual private servers
+Batch: Batch computing for jobs
+
+            2. Storage Services
+S3: Simple Storage Service (Object storage)
+EBS: Elastic Block Store (Block storage for EC2)
+EFS: Elastic File System (File storage for EC2)
+Glacier: Archived storage service
+FSx: File systems for Windows/Lustre
+
+            3. Database Services
+RDS: Relational Database Service
+DynamoDB: Managed NoSQL database
+ElastiCache: In-memory caching service
+Redshift: Data warehousing service
+Neptune: Graph database service
+Aurora: MySQL/PostgreSQL-compatible relational database
+
+            4. Networking and Content Delivery
+VPC: Virtual Private Cloud
+Route 53: Scalable Domain Name System (DNS) service
+CloudFront: Content Delivery Network (CDN)
+Direct Connect: Dedicated network connection to AWS
+ALB/NLB: Application Load Balancer / Network Load Balancer
+Transit Gateway: Network hub to connect VPCs
+
+            5. Security, Identity, and Compliance
+IAM: Identity and Access Management
+KMS: Key Management Service
+WAF: Web Application Firewall
+Shield: DDoS protection service
+Secrets Manager: Tool for managing secrets/keys
+Cognito: User authentication and management
+Artifact: On-demand access to compliance reports
+
+            6. Management and Governance
+CloudWatch: Monitoring and logging service
+CloudTrail: API activity tracking/audit logs
+CloudFormation: Infrastructure as Code (IaC) tool
+Config: Resource configuration tracker
+Systems Manager (SSM): Configuration management
+Control Tower: Set up and govern secure AWS environments
+
+            7. Developer Tools & Migration  
+CLI: Command Line Interface
+CodeCommit: Managed source control (Git)
+CodeBuild: Build/test service
+CodeDeploy: Automated deployment service
+CodePipeline: Continuous delivery service
+DMS: Database Migration Service
+SMS: Server Migration Service
+
+            8. Analytics & Machine Learning 
+EMR: Elastic MapReduce (Big data processing)
+Kinesis: Real-time data streaming
+Athena: Serverless interactive query service
+Glue: Serverless data integration (ETL)
+SageMaker: Machine learning platform
+Rekognition: Image/video analysis
+
+            9. Application Integration
+SNS: Simple Notification Service
+SQS: Simple Queue Service
+SWF: Simple Workflow Service
+AppSync: Managed GraphQL service
+
+            10. End User Computing
+WorkSpaces: Managed virtual desktops
+AppStream: Streaming desktop applications
+
+            11. Key Acronyms to Remember
+APN: AWS Partner Network
+ARN: Amazon Resource Name
+AZ: Availability Zone
+5 Pillars (WAF): Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization
